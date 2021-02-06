@@ -5,7 +5,7 @@ If you like what you see, maybe [sponsor me on Patreon](patreon.com/unsttv)? It'
 ## What I'm proud of:
 ### Adventures in Pawnland
 No Itch.io link yet
-Repo: [IAmUnStTV/Pawnland](https://github.io/iamunsttv/pawnland)
+Repo: [IAmUnStTV/Pawnland](https://github.com/iamunsttv/pawnland)
 
 #### Stalk me online:
 [![Twitter Follow](https://img.shields.io/twitter/follow/UnStTV?style=social)](https://twitter.com/UnStTV)
