@@ -8,6 +8,6 @@ No Itch.io link yet
 Repo: [IAmUnStTV/Pawnland](https://github.com/iamunsttv/pawnland)
 
 #### Stalk me online:
-[![Twitter Follow](https://img.shields.io/twitter/follow/UnStTV?style=social)](https://twitter.com/UnStTV)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_ByeMC?style=social)](https://twitter.com/_ByeMC)
 
 [![Discord](https://img.shields.io/discord/787305179279917097?label=My%20Public%20Discord&style=social)](https://discord.gg/srnXEcc3BP)
